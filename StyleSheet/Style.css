@@ -1,13 +1,26 @@
-/* Fonts */
+/*===================================
+                Fonts 
+ ==================================*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
-/* common Style */
+/*====================================
+           common Style 
+====================================*/
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #F3F1FF;
 }
+/* =================================
+           Header Style
+================================= */
 
-/* Top player style */
+
+
+/*====================================
+         Top Section style
+ ===================================*/
+   
+   /* --------top player-------- */
 .players{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -20,3 +33,12 @@ body{
     width: 56px;
     height: 56px;
 }
+
+    /* -----------Top Blogs---------- */
+
+
+/*=====================================
+            Lates Course
+ =====================================*/
+
+
