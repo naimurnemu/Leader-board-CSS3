@@ -172,7 +172,21 @@ hr {
     color: white;
     background-color: maroon;
 }
-
+.input-count{
+    font-size: 20px;
+    margin: 0 auto;
+    width: 10%;
+    padding: 10px 0px 10px 20px;
+    margin-bottom: 20px;
+}
+.input-btn{
+    font-size: 20px;
+    margin: 0 auto;
+    width: 10%;
+    margin-bottom: 20px;
+    background-color: rgb(137, 137, 255);
+    border-radius: 4px;
+}
 /* ========================
 footer
 ============================ */

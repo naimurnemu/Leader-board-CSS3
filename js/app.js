@@ -16,4 +16,18 @@ document.getElementById("add-new").addEventListener("click", function () {
     listBox.appendChild(li);
 });
 
-// task-4
+// task-4-5
+document.getElementById("count-btn").addEventListener("click", function () {
+    const numberBox = document.getElementById("count-box");
+    const valueInput = parseInt(numberBox.value);
+
+    if (valueInput == 5) {
+        document.getElementById(count - btn).setAttribute("disabled");
+    } else {
+        const valueUp = valueInput + 1;
+        numberBox.value = valueUp;
+    }
+});
+
+// task-6 and task-7 is in another folder
+
